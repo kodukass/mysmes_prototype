@@ -1,0 +1,23 @@
+label day_:
+#
+# call phone_start2
+#
+# hide hub
+# hide chatroomb_full
+# hide emailb_full
+# hide historyb
+# hide helpb
+# hide albumb
+# hide exitb
+# hide yoosung_icon
+# hide zen_icon
+# hide seven_icon
+# hide jumin_icon
+# hide jaehee_icon
+#
+# init:
+#     $ mc_icon_lvl2 = Position(xpos=0.6596, ypos=10, xanchor=0.6596, yanchor=5)
+#
+# image mc_icon2 = Transform("mc_icon.png", zoom=.205)
+#
+# show mc_icon2 at mc_icon_lvl2
